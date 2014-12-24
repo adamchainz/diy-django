@@ -18,6 +18,7 @@ setup(
     author_email='cmawebsite@gmail.com',
     classifiers=[
         'Framework :: Django',
+        'License :: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication',
         'Programming Language :: Python :: 3',
     ],
 )
