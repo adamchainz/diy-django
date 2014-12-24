@@ -1,0 +1,13 @@
+python:
+  - 2.6
+  - 2.7
+  - 3.3
+  - 3.4
+  - 3.5
+install:
+  - pip install -r requirements.txt
+  - pip install coveralls
+script:
+  coverage run diydjango
+after_success:
+  coveralls

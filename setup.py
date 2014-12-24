@@ -10,6 +10,7 @@ setup(
     name='diy-django',
     version='1.0.1',
     packages=['diydjango'],
+    install_requires=['django']
     description='diy-django',
     long_description=README,
     url='https://github.com/collinanderson/diy-django',
