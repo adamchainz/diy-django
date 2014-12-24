@@ -13,8 +13,6 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   markdown
-
 
 Indices and tables
 ==================

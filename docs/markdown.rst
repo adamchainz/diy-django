@@ -11,7 +11,7 @@ Install using pip::
 Using markdown with django
 ==========================
 
-Set up your models like this:
+Set up your models like this::
 
     from django.utils.safestring import mark_safe
     import markdown
@@ -23,6 +23,6 @@ Set up your models like this:
         def content_markdown(self):
             return mark_safe(markdown.markdown(self.content))
 
-In your template, render the markdown like so:
+In your template, render the markdown like so::
 
     {{ my_object.content_markdown }}
