@@ -6,11 +6,14 @@
 Welcome to diy-django's documentation!
 ======================================
 
+https://github.com/collinanderson/diy-django
+
 Contents:
 
 .. toctree::
    :maxdepth: 2
 
+   markdown
 
 
 Indices and tables
