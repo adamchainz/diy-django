@@ -8,7 +8,7 @@ with open('README.rst') as readme:
 
 setup(
     name='diy-django',
-    verison='1.0.0',
+    version='1.0.0',
     packages=['diydjango'],
     description='diy-django',
     long_description=README,
