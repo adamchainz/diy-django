@@ -17,6 +17,7 @@ setup(
     author='Collin Anderson',
     author_email='cmawebsite@gmail.com',
     classifiers=[
+        'Development Status :: 5 - Production/Stable',
         'Framework :: Django',
         'Programming Language :: Python :: 3',
     ],
