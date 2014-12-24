@@ -1,15 +1,12 @@
 diy-django markdown
 ===================
 
-Installing Markdown
-===================
-
 Install using pip::
 
     pip install markdown
 
 Using markdown with django
-==========================
+--------------------------
 
 Set up your models like this::
 
