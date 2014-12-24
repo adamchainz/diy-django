@@ -1,11 +1,10 @@
 diy-django
 ==========
 
-   .. image:: http://img.shields.io/travis/v/diy-django.svg
-   .. image:: https://img.shields.io/coveralls/collinanderson/diy-django.svg
+   .. image:: http://img.shields.io/travis/collinanderson/diy-django.svg
+   .. image:: https://img.shields.io/requires/github/collinanderson/diy-django.svg
    .. image:: http://img.shields.io/pypi/v/diy-django.svg
    .. image:: http://img.shields.io/pypi/l/diy-django.svg
-   .. image:: https://img.shields.io/david/collinanderson/diy-django.svg
 
 
 http://diy-django.readthedocs.org
