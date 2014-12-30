@@ -22,4 +22,5 @@ http://diy-django.readthedocs.org
 Features:
 
 - Email as Username http://diy-django.readthedocs.org/en/latest/emailauth.html
+- AJAX File Upload Widget with Progress http://diy-django.readthedocs.org/en/latest/ajaxupload.html
 - Markdown http://diy-django.readthedocs.org/en/latest/markdown.html
