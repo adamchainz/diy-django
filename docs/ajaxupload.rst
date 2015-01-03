@@ -16,7 +16,7 @@ Create an UploadField and UploadWidget like this::
             attrs = attrs or {}
             attrs['class'] = 'vTextField'
             input = super(UploadWidget, self).render(name, value, attrs=attrs)
-            value = ('<a href="%s" target="_blank">view</a>' % value.url) if hasattr(value, 'url') else value
+            value = ('<a href="%s" target="_blank">view</a>' % value.url) if value and getattr(value, 'url') else value
             onchange = r'''
     f = this.files[0]
     this.value = ''
