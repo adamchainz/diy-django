@@ -57,7 +57,7 @@ In urls.py::
 
     from . import views
     urlpatterns = [
-        url(r'^simple_upload/$', views.simple_upload),
+        url(r'^simple_upload/(.+)$', simple_upload),
     ]
 
 Using the FileUpload field in the admin
