@@ -17,7 +17,7 @@ Create an email auth user model like this::
 
     class EmailUser(AbstractBaseUser, PermissionsMixin):
         USERNAME_FIELD = 'email'
-        email = models.EmailField('Email', unique=True)
+        email = models.EmailField(unique=True)
         is_staff = models.BooleanField(default=False)
         is_active = models.BooleanField(default=True)
         objects = EmailUserManager()
