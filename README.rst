@@ -14,13 +14,13 @@ diy-django
    :alt: pypi license
 
 .. image:: https://readthedocs.org/projects/diy-django/badge/
-   :target: http://diy-django.readthedocs.org/en/latest/
+   :target: https://diy-django.readthedocs.io/en/latest/
    :alt: documentation
 
-http://diy-django.readthedocs.org
+https://diy-django.readthedocs.io
 
 Features:
 
-- Email as Username http://diy-django.readthedocs.org/en/latest/emailauth.html
-- AJAX File Upload Widget with Progress http://diy-django.readthedocs.org/en/latest/ajaxupload.html
-- Markdown http://diy-django.readthedocs.org/en/latest/markdown.html
+- Email as Username https://diy-django.readthedocs.io/en/latest/emailauth.html
+- AJAX File Upload Widget with Progress https://diy-django.readthedocs.io/en/latest/ajaxupload.html
+- Markdown https://diy-django.readthedocs.io/en/latest/markdown.html

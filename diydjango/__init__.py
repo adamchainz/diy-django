@@ -1,5 +1,5 @@
 '''
 diy-django
 
-For usage, see http://diy-django.readthedocs.org/
+For usage, see https://diy-django.readthedocs.io/
 '''
